@@ -1,4 +1,4 @@
-<img width="600" height="448" alt="Screenshot 2025-07-19 at 22 37 06" src="https://github.com/user-attachments/assets/9526cd4e-f33e-4893-acb4-68c5478fc0b6" /># Mega Mart
+# Mega Mart
 
 [Dataset](https://github.com/DiAg-2025/Business-Intelligence--Mega-Mart/blob/main/csv_dataset.zip)
 
