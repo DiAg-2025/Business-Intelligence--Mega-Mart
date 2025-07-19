@@ -17,7 +17,7 @@ Objectives:
 12. Calculate the mean household sales by age and household composition. Which of the demographics has the highest average sales?
 13. Calculate the sum of sales by age and department. Which category does the youngest demographic perform well in? Export the pivot table in an Excel file.
 
-![Python](https://img.shields.io/badge/Py_libraries-pandas,_pumpy,_matplotlib,_seaborn,_openpyxl-lightgreen)
+![Python](https://img.shields.io/badge/Py_libraries-pandas,_numpy,_matplotlib,_seaborn,_openpyxl-lightgreen)
 
 [Analysis](https://github.com/DiAg-2025/Business-Intelligence--Mega-Mart/blob/main/JupyterAnalysis.ipynb)
 
